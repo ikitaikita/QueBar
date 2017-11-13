@@ -34,17 +34,15 @@
       <!-- ultima generada el 7 feb 2015 -->
       <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBALFA3nkIPHt_JggSYU4YJamAoav0xHfM" />
+            android:value="API_KEY_VALUE" />
      
-       <!-- meta-data
-            android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBGUaUinpsCc4DaSoW5ejw6TVeqgdTbQeM" /-->
+       
             
        <!-- emulador -->
        <!--  
        <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCxX_Q2pAeLdQmNSod-qrNvg3WemqsxOxI" />
+            android:value="API_KEY_VALUE" />
             
        -->
         
