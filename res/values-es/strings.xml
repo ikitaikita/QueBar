@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QueBar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pickgallery">pickgallery</string>
+    <string name="takepic">takepicy</string>
+    <string name="opengallery">opengallery</string>
+    <string name="nVotosMas">400</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+    <string name="title_capture_tapa">Publica un bar</string>
+    <string name="hint_tapa_desc">descripción del bar</string>
+    <string name="hint_evento_desc">descripción del evento</string>
+    <string name="title_List_tapa">bares cercanos</string>
+    <string name="title_MyList_tapa">bares en una localizacion</string>
+    <string name="title_near_tapa">mapa de bares cercanos</string>
+    <string name="level_tapa">categoria:</string>
+    <string name="imagenBar">imagen bar</string>
+    <string name="INFORMACION">Info</string>
+    <string name="PublicarTapa">Publicando Bar</string>
+    <string name="PublicarEvento">Publicando Evento</string>
+    <string name="NoPublicada">No se ha podido publicar</string>
+    <string name="ErrorCarga">Error al cargar los bares</string>
+    <string name="ErrorMapa">Error al cargar el mapa</string>    
+    <string name="cargandoTapas">Cargando Bares</string>
+    <string name="espere">Por favor espere</string>
+    <string name="publicarT">Publicar Bar</string>
+    <string name="publicarE">Publicar Evento</string>
+    <string name="evotacion">Registrando el voto</string>
+    <string name="lista_vacia">Aun no has introducido ninguna direccion</string>
+    <string name="pull_to_refresh_pull_label">Desliza para refrescar...</string>
+    <string name="pull_to_refresh_release_label">Suelta para refrescar...</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando...</string>
+    <string name="pull_to_refresh_tap_label">Pulse para refrescar...</string>
+    <string name="sharing">Mira que disfraz de #Carnaval {uri} Vía #Carnavalea http://bit.ly/carnavalea</string>
+    <string name="sharing_title">¿Deseas compartir esta informacion con tus amigos?</string>
+    <string name="sharing_ok">Si</string>
+    <string name="sharing_cancel">No</string>
+    <string name="share">Compartir por</string>
+    <string name="menu_legalnotices">Legal Notices</string>
+    <string name= "desc"></string>
+     <string name= "buscar">buscar</string>
+     <string name= "NoCity">No ha insertado ninguna ciudad o direccion. Estos son los más cercanos</string>
+     <string name= "introdir">Introduce ciudad o direccion</string>
+    
+    <string name= "tab1">Inserta Bar</string>
+    <string name= "tab2">cercanos</string>
+    <string name= "tab3">mapa de bares cercanos</string>
+    <string name= "tab4">donde puedo ir</string>
+  
+
+</resources>

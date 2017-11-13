@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QueBar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pickgallery">pickgallery</string>
+    <string name="takepic">takepicy</string>
+    <string name="opengallery">opengallery</string>
+    <string name="nVotosMas">400</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="title_capture_tapa">Capture</string>
+    <string name="hint_tapa_desc">Add bar description </string>
+    <string name="hint_evento_desc">Add custome description</string>
+    <string name="title_List_tapa">nearby</string>
+    <string name="title_MyList_tapa">pubs in a specific location</string>
+    <string name="title_near_tapa">map of nearby</string>
+    <string name="imagenBar">bar image</string>
+    <string name="level_tapa">Your level is </string>
+    <string name="INFORMACION">Info</string>
+    <string name="PublicarTapa">Publishing costume</string>
+    <string name="PublicarEvento">Publishing costume</string>
+    <string name="NoPublicada">Unpublished costume</string>
+    <string name="ErrorCarga">Error loading costumes</string>
+    <string name="ErrorMapa">Error loading mapa</string>  
+    <string name="cargandoTapas">Loading costumes</string>
+    <string name="espere">Please wait</string>
+    <string name="evotacion">Rating</string>
+    <string name="publicarT">Public Bar</string>
+    <string name="publicarE">Public Event</string>
+    <string name="lista_vacia">You has not introduced any direction</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+    <string name="sharing">Look at this #Carnival costume! {uri} Vía #Carnavalea http://bit.ly/carnavalea</string>
+    <string name="sharing_title">Do you want to share this costume with your friends?</string>
+    <string name="sharing_ok">Yes</string>
+    <string name="sharing_cancel">No</string>
+    <string name="share">Share via</string>
+    <string name="menu_legalnotices">Legal Notices</string>
+    <string name= "desc"></string>
+    <string name= "buscar">Search</string>
+    <string name= "NoCity">No address or city inserted. These are the closest pubs</string>
+    <string name= "introdir">Insert a city or address</string>
+    
+    <string name= "tab1">insert bar</string>
+    <string name= "tab2">nearby list</string>
+    <string name= "tab3">nearby map</string>
+    <string name= "tab4">bar in a specific location</string>
+   
+
+</resources>

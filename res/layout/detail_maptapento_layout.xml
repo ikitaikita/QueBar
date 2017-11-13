@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:orientation="vertical" 
+    tools:context=".DetailMapTapentoActivity">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:minWidth="400dp"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:paddingLeft="10dip"
+            android:paddingRight="60dip"
+            android:contentDescription="@string/desc"
+            android:src="@drawable/logo_ranking_modals" />
+
+        <ImageButton
+            android:id="@+id/gotoDetail"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/desc"
+            android:background="@android:color/transparent"
+            android:src="@drawable/go_to_detail_style" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/header"
+        android:layout_margin="10dp"
+        android:background="@drawable/border"
+        android:orientation="vertical" >
+       
+        <fragment
+        android:id="@+id/mapviewdetail"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:enabled="true"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+    </LinearLayout>
+    
+    
+
+</RelativeLayout> <!-- Fin del layout principal -->
+
