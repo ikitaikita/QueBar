@@ -30,7 +30,7 @@ import android.util.Log;
  */
 public class AccessInterface {
 	
-	public static final String TOPOOS_ADMIN_APP_TOKEN = "1a2699e6-4ecf-4ccd-886e-1e90b15f451e";
+	public static final String TOPOOS_ADMIN_APP_TOKEN = "TOPOOS_TOKEN";
 
 
 	public static final int SEARCH_RADIUS_METERS = 5000;
@@ -170,7 +170,7 @@ public class AccessInterface {
     }
     
     /**
-     * metodo que se usa al añadir un voto negativo
+     * metodo que se usa al aÃ±adir un voto negativo
      * @param ctx
      * @param id
      * @throws IOException
@@ -183,7 +183,7 @@ public class AccessInterface {
 
     }
     /**
-     * Metodo que se usa al añadir un voto positivo
+     * Metodo que se usa al aÃ±adir un voto positivo
      * @param ctx
      * @param id
      * @throws IOException
